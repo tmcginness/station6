@@ -14,7 +14,7 @@
                 <?php get_template_part('template-parts/content', 'none') ?>
                 <?php endif; ?>
 
-                <p>Template: index.php</p>
+                <p>Template: single.php</p>
 
         </main>
     </div>
